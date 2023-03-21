@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "207267633033",
+    "firebase_url": "https://databasejnts-cff4f-default-rtdb.firebaseio.com",
+    "project_id": "databasejnts-cff4f",
+    "storage_bucket": "databasejnts-cff4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207267633033:android:f7f0bcc9b7d9a27c4b3358",
+        "android_client_info": {
+          "package_name": "com.example.sapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207267633033-ejatq8he5b76l5boo84vm2ic76okn349.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzc4ReMqi_esBgZdmskKaMhHu0Muv-to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207267633033-ejatq8he5b76l5boo84vm2ic76okn349.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207267633033:android:49d126087cbf45d04b3358",
+        "android_client_info": {
+          "package_name": "com.example.teachersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207267633033-ejatq8he5b76l5boo84vm2ic76okn349.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzc4ReMqi_esBgZdmskKaMhHu0Muv-to"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207267633033-ejatq8he5b76l5boo84vm2ic76okn349.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

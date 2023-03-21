@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigationtop"
+    app:startDestination="@+id/navigation_notice">
+
+    <fragment android:id="@+id/navigation_notice"
+        android:name="com.example.jntuhces.ui.notices.MainNoticeFragment"
+        android:label="Notice"
+        tools:Layout="@layout/fragment_notice"/>
+
+    <fragment android:id="@+id/navigation_faculty"
+        android:name="com.example.jntuhces.ui.faculty.FacultyFragment"
+        android:label="Faculty"
+        tools:Layout="@layout/fragment_faculty"/>
+
+    <fragment android:id="@+id/navigation_about"
+        android:name="com.example.jntuhces.ui.about.AboutFragment"
+        android:label="AboutUs"
+        tools:Layout="@layout/fragment_about"/>
+</navigation>

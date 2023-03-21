@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme1" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#360095</item>
+        <item name="colorPrimaryDark">#5B00FB</item>
+        <item name="colorAccent">#001AFF</item>
+    </style>
+
+    <style name="Theme2" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FB3C00</item>
+        <item name="colorPrimaryDark">#F88A67</item>
+        <item name="colorAccent">#FD5019</item>
+    </style>
+
+    <style name="Theme3" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#62FF00</item>
+        <item name="colorPrimaryDark">#188300</item>
+        <item name="colorAccent">#7DFF4E</item>
+    </style>
+
+    <style name="Theme4" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF0404</item>
+        <item name="colorPrimaryDark">#930101</item>
+        <item name="colorAccent">#F37171</item>
+    </style>
+
+    <style name="Theme5" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">#976D03</item>
+        <item name="colorAccent">#FBEB50</item>
+    </style>
+
+    <style name="Theme6" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/grey</item>
+        <item name="colorPrimaryDark">#292929</item>
+        <item name="colorAccent">#AEAAAA</item>
+    </style>
+</resources>

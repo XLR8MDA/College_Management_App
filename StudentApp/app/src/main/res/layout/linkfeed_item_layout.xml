@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="30dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginLeft="3dp"
+        android:background="#FFF8F8"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content">
+
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@drawable/logomain"/>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="JNTUHCES"
+                    android:textSize="18dp"
+                    android:textColor="@color/black"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Date :"
+                        android:fontFamily="@font/light"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:id="@+id/date"
+                        android:layout_height="wrap_content"
+                        android:text="15 aug 2020"
+                        android:layout_marginLeft="5dp"
+                        android:fontFamily="@font/light"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Time :"
+                        android:layout_marginLeft="25dp"
+                        android:fontFamily="@font/light"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/time"
+                        android:text="12:00"
+                        android:layout_marginLeft="5dp"
+                        android:fontFamily="@font/light"
+                        android:textSize="@dimen/text_size01"
+                        android:textColor="@color/textColor"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="16dp"
+            android:text="This is the Title of the Notice"
+            android:textSize="17sp"
+            android:textColor="@color/black"/>
+
+
+        <TextView
+            android:id="@+id/url"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Click here to Open the Link"
+            android:textColor="#5FA8F6"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

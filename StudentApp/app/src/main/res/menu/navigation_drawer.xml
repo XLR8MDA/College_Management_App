@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Inventory">
+            <menu>
+
+                <item
+                    android:id="@+id/navigation_results"
+                    android:icon="@drawable/ic_dresults"
+                    android:title="Results" />
+                <item
+                    android:id="@+id/navigation_website"
+                    android:icon="@drawable/ic_dwebsite"
+                    android:title="Website" />
+                <item
+                    android:id="@+id/navigation_videos"
+                    android:icon="@drawable/ic_dvideo"
+                    android:title="Video Lectures" />
+
+            </menu>
+        </item>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Interactive">
+            <menu>
+                <item
+                    android:id="@+id/navigation_live"
+                    android:icon="@drawable/ic_live"
+                    android:title="LIVE" />
+
+                <item
+                    android:id="@+id/gallery"
+                    android:icon="@drawable/ic_gallery"
+                    android:title="Gallery" />
+
+                <item
+                    android:id="@+id/archive"
+                    android:icon="@drawable/ic_twotone_archive_24"
+                    android:title="Archive" />
+
+            </menu>
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="Appearance">
+            <menu>
+                <item
+                    android:id="@+id/darkmode"
+                    android:icon="@drawable/ic_night"
+                    android:title="DarkMode" />
+                <item
+                    android:id="@+id/themes"
+                    android:icon="@drawable/ic_themes"
+                    android:title="Themes" />
+                <item
+                    android:id="@+id/font"
+                    android:icon="@drawable/ic_font"
+                    android:title="Fonts" />
+            </menu>
+        </item>
+    </group>
+
+
+    <item
+        android:id="@+id/covid"
+        android:icon="@drawable/ic_coronavirus"
+        android:title="CoVid-19" />
+    <item
+        android:id="@+id/navigation_developers"
+        android:icon="@drawable/ic_ddeveloper"
+        android:title="Developers" />
+
+
+</menu>

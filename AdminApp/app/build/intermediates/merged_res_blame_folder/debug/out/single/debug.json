@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upload_links.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_upload_links.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_faculty_item_layout.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\faculty_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_alert.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\alert.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_teacher.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_update_teacher.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upload_pdf.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_upload_pdf.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_ece.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\fragment_ece.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_cse.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\fragment_cse.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logomain.jpg.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable-v24\\logomain.jpg"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_gallery.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_notie.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\notie.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_people.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_people.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_pcm.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\fragment_pcm.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_notifi.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\notifi.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_teaher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\teaher.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_rounded.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\bottom_rounded.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_delete_pdf.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_delete_pdf.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_addimage.webp.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\addimage.webp"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upload_image.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_upload_image.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notification.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notice.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_delete_links.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_delete_links.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_faulty.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_update_faulty.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_ebook_item_layout.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\ebook_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_linkfeed_item_layout.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\linkfeed_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pdf.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_pdf.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_civ.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\fragment_civ.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_corner.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_alumni.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_alumni.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_eboook.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\eboook.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_mech.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\fragment_mech.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_teachers.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_add_teachers.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_delete.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_delete_notice.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_delete_notice.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_newsfeed_item_layout.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\newsfeed_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_no_data_found.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\no_data_found.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upload_notice.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_upload_notice.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_alumni.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_alumni.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_logout.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_classphoto.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\layout\\activity_classphoto.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Apps\\TeachersApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Apps\\TeachersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

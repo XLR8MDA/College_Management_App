@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/emerg"
+        android:title="Emergency"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/rateus"
+        android:title="RateUs"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/shareus"
+        android:title="ShareUs"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/writeus"
+        android:title="WriteToUs"
+        android:icon="@drawable/ic_dresults"
+        app:showAsAction="never"/>
+
+</menu>

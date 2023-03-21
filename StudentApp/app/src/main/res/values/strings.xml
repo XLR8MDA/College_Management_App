@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">JNTUHCES</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/regular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/light</string>
+    <string name="extralight" tools:ignore="ReferenceType">@font/extralight</string>
+    <string name="about">A new milestone in the history of Jawaharlal Nehru Technological University Hyderabad is the beginning of another Constituent Engineering College situated at Sulthanpur in Medak District from the Academic Year 2012-13. JNTUH College of Engineering Sulthanpur is just 20 Km away from Sangareddy on the way to Jogipet and well connected by road from Hyderabad as well as Sangareddy. JNTUH College of Engineering Sulthanpur has taken up regular B.Tech Courses in CE,ME,ECE,CSE."</string>
+    <string name="title_activity_results_tab">results_tab</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <string name="hostel">The College provides Hostel accommodation for Boys and Girls, Six Blocks for Boys and three Blocks for Girls. The Boys hostels have a total boarding capacity of 410 students while the Girls hostel accommodates 360 girl students.</string>
+</resources>
